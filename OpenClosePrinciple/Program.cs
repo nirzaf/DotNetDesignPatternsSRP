@@ -1,5 +1,7 @@
 ﻿using static System.Console;
 
+//Open for extension and closed for modification 
+
 var apple = new Product("Apple", Color.Green, Size.Small);
 var tree = new Product("Tree", Color.Blue, Size.Large);
 var house = new Product("House", Color.Red, Size.Large);
