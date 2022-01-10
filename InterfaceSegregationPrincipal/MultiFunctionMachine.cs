@@ -10,6 +10,7 @@
         _scanner = scanner ?? throw new ArgumentNullException(nameof(scanner));
     }
 
+    //decorator design pattern 
     public void Print(Document d)
     {
         _printer.Print(d);
