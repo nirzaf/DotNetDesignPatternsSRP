@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿//Interface should not force the implementation when it is not required to implement 
 
 Console.WriteLine("Hello, World!");
 
