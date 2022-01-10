@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetDesignPatternsSRP", "DotNetDesignPatternsSRP\DotNetDesignPatternsSRP.csproj", "{335DCEF7-EBAD-4441-B3F7-6A74D4BE0E49}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleResponsibility", "DotNetDesignPatternsSRP\SingleResponsibility.csproj", "{335DCEF7-EBAD-4441-B3F7-6A74D4BE0E49}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenClosePrinciple", "OpenClosePrinciple\OpenClosePrinciple.csproj", "{26444120-1C4F-479A-96A5-297CC1ED78E4}"
 EndProject
