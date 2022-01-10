@@ -2,6 +2,7 @@
 
 namespace LiskovSubstitutionPrincipal;
 
+//should be able to substitute a base type for a subtype
 public class Program
 {
     private static int Area(Rectangle r)

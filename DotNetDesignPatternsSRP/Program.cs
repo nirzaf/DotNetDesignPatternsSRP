@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// There should be only a single reason to change a class
 
 using System.Diagnostics;
 
@@ -12,11 +12,6 @@ try
 
     var p = new Persistence();
 
-    //// to get the location the assembly is executing from
-    //var path = System.Reflection.Assembly.GetExecutingAssembly().Location;
-
-    ////once you have the path you get the directory with:
-    //var directory = Path.GetDirectoryName(path);
     try
     {
         const string filename = @"F:\journal.txt";
